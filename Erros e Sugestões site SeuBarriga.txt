@@ -1,0 +1,18 @@
+<Pág de Login>
+Sugestões: 
+"esqueceu a senha", "Entra com Gmail, ICloud, Face..."
+ 
+Erro: A minha senha estava errada e ele mostrou "E-mail invalido"
+Erro: Está sendo possivel cadastras um login cujo a senha tem apenas um caractere.
+Erro: E-mails inexistentes estão podendo ser cadastrados
+
+
+<Criar movimentação>
+Sugestões:
+Em Data da Movimentação poderia ja esta formatado em data a resposta para facilidar o usuario.
+Não permitir letras, apenas numeros.
+Deveria informar que "/" na data é caractere obrigatório.
+Poderia ter um boton para juros e acréscimos.
+
+Erro [ object Obtect]: Ao Exceder 14 digitos dentro na lacuna "Valor" ele mostra esse erro sem uma mensagem clara e objetiva para o usuário.
+Erro: Em valor ele não aceita os centavos
